@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here begynneth certayn statutes and ordenaunces of warre made ordeined enacted and estalysshed [sic] by the most noble victorious and most cristen prince oure moste drad souerayn lorde King Henry the vii. King of Fraunce and of Englond by the aduyce of his noble and discrete counseyl holdynge than his hygh courte of his parlament at his paleis of westmynster the xvii. day of October in the yere of oure lord god M.CCCClxxxxii and of his moste noble reigne the vii. yere. For the wele suertie good rule [and] saufgarde of his honorable lordes capitaignes [and] other his humble subgettes and also for suche of them of his said realme of frau[n]ce that herafter wol become his true subgettis being in his most royal hoste ayenst his auncyent enmys of fraunce</title>
+            <author>England. Sovereign (1485-1509 : Henry VII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1492</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22826</idno>
+            <idno type="STC">STC 9332</idno>
+            <idno type="STC">ESTC S106428</idno>
+            <idno type="EEBO-CITATION">99842144</idno>
+            <idno type="PROQUEST">99842144</idno>
+            <idno type="VID">6774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 6774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 9:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here begynneth certayn statutes and ordenaunces of warre made ordeined enacted and estalysshed [sic] by the most noble victorious and most cristen prince oure moste drad souerayn lorde King Henry the vii. King of Fraunce and of Englond by the aduyce of his noble and discrete counseyl holdynge than his hygh courte of his parlament at his paleis of westmynster the xvii. day of October in the yere of oure lord god M.CCCClxxxxii and of his moste noble reigne the vii. yere. For the wele suertie good rule [and] saufgarde of his honorable lordes capitaignes [and] other his humble subgettes and also for suche of them of his said realme of frau[n]ce that herafter wol become his true subgettis being in his most royal hoste ayenst his auncyent enmys of fraunce</title>
+                  <author>England. Sovereign (1485-1509 : Henry VII)</author>
+                  <author>Henry VII, King of England, 1457-1509.</author>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Pynson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1492?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text ends: Emprented by his [i.e. Henry's] hygh co[m]mau[nd .. and?] by his owne propre handys delyue[red to Ri?]chard Pynson prynter of this boke.</note>
+                  <note>Publication date conjectured by STC. The date "1492" in title is an error for 1491.</note>
+                  <note>Signatures: a b-c⁶.</note>
+                  <note>Secundo folio: F⁴orasmoche as it is often seen yt mannys reason ..</note>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+                  <note>Leaves a2,7 and c1,2,5 only; mutilated.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:6774:1"/>
+            <pb facs="tcp:6774:1"/>
+            <p>
+               <seg rend="decorInit">F</seg>Or aſmoche as it is often ſeen y<hi rend="sup">e</hi> man<g ref="char:EOLhyphen"/>nys reaſon wherby he ſhulde decern the good from the euyl / and the right from the wronge / is many tymes by ſeduc<g ref="char:EOLhyphen"/>tion of the deuyl / worldly couetiſe and ſenſual appetites repreſſed and vanquyſſhed / wherup<g ref="char:EOLhyphen"/>pon comunely enſuen diſcordes. murdres. rob<g ref="char:EOLhyphen"/>bries. diuiſions. diſobeiſſance to ſoueraignes. ſubuerſion of royalmes. and diſtruction of peo<g ref="char:EOLunhyphen"/>ple / ſoo that where thies reigne victorye in tym of warre and iuſtice in tyme of pea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be vtterly dampned and exiled. Therfore Emperoures princes and gouernours of tyme paſt for refrai<g ref="char:EOLunhyphen"/>nynge of ſuche inordinat appetites and punyſ<g ref="char:EOLunhyphen"/>ſhement of thoes folnes whiche rather eychue. to offende for fere of bodily peyn or loſſes of go<g ref="char:EOLunhyphen"/>des then for the loue of god or iuſtice ful wiſe<g ref="char:EOLhyphen"/>ly and polletiquely ordeyned diuerſe lawes ſer<g ref="char:EOLunhyphen"/>vyng to the ſame purpos aſwele in tym of war as peas. Semblabely oure ſoueraigne lorde Henry of this name the. vn. by the grace of god kinge of Englonde and of Fraunce and lorde of Irlande entendynge by the ſame grace with af goodly ſpede to paſſe the ſee in his owne per<g ref="char:EOLunhyphen"/>ſone with an armye and of<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> aſſe for the re<g ref="char:EOLhyphen"/>preſſinge
+<pb facs="tcp:6774:2"/>
+of the greate tiranny of the frenſhmen nowe lately doon and yet of newe purpenſed de<g ref="char:EOLunhyphen"/>termyned and prepaired to be doon: to the ma<g ref="char:EOLhyphen"/>nifeſt daungier of his royalme of Englonde / &amp; ſubgetes of the ſame / onleſſe the ſaide frenſhme<g ref="char:cmbAbbrStroke">̄</g> be the ſoner and mightiliar withſtonde &amp; recoun<g ref="char:EOLunhyphen"/>tred. conſidereth wele that for the greate ſuretie of his ſaide ofte and thachieuynge of his mooſt noble purpoſe it appertayneth and bihoueth a wele to ordre his folnes of the warre in Iuſtice. by the minyſtres of the lawe as to arryue theym in bataile by the chiefteyns of his army. for whi<g ref="char:EOLunhyphen"/>che purpoſe his highnes by thaduyſe of ſuch lor<g ref="char:EOLunhyphen"/>des of his bloode capitaignes of his armye and other folnes as be of his counſeil hathe made or<g ref="char:EOLunhyphen"/>deyned and eſtabliſſhed / certayne ſtatutes &amp; or<g ref="char:EOLhyphen"/>dynaunces herafter enſuynge</p>
+            <p>¶Firſte that almaner of men of the kinges ofte of what nacion. eſtate or condicion / ſoeuir they be. be obeiſſaunt vnto the kinge oure ſouerayn lorde vpon peyne of drawinge hanging &amp; quar<g ref="char:EOLunhyphen"/>teringe And ouir that that euery man aforſaide the kinges lieutenant for the tyme beinge only excepte / be obeiſſaunte vnto the marſhal of the
+<pb facs="tcp:6774:2"/>
+hath aggreed wirh his capitaigne aftre the war<g ref="char:EOLunhyphen"/>de of the courte.</p>
+            <p>Alſo that euery capitaigne kepe duely his wat<g ref="char:EOLhyphen"/>che warde ſtale and forrey with aſmany men of armes &amp; archers as to him ſhal be aſſigned / but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f he haue a cauſe reaſonable firſte alowed bifo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the marſhal / and to abide vpon his ward wa<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he and ſtale the terme to him limyted withoute <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eparringe from it no way but it be by the aſſig<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ement or licence of him by the whiche the ſaide watche warde and ſtale is made vpon peyn his body to be empriſoned and to ſtonde at the kin<g ref="char:EOLhyphen"/>ges wyl. Alſo that euery capitayne haue daye &amp; night watche within his loginge vpon payn of loſinge iiij. daies wages</p>
+            <div type="part">
+               <head>¶That no man diſaray him in the battal for no ſcrie that cometh in the oſte.</head>
+               <p>Alſo that for noo tidynges ne for noo maner of ſcrye that maye co<g ref="char:cmbAbbrStroke">̄</g>me in the oſte that noo man mene him in diſaraye oute of the batayle if they ryde or goo but by leue of the chieftayne vpone</p>
+               <p>¶peyne that he that ſoo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>deth ſhalle be.
+<pb facs="tcp:6774:3"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to the warde of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> vnto the tyme he haue made his fy<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with him and founde ſuertie that he ſhal no more ſoo offende / and at the ſeconde tyme. his body to ſtonde at the kinges wylle.</p>
+            </div>
+            <div type="part">
+               <head>For vnlaufulle eſcries.</head>
+               <p>Alſo that none vnreſonable ne outragies eſcry be in the oſte by daye nor night vpon payn that he that is fonde the begynner therof to dye ther<g ref="char:EOLunhyphen"/>fore and the remenant to be impriſoned &amp; their bodies to be puniſſhed at the kinges wylle. and he y<hi rend="sup">t</hi> certifieth who is the begynner ſhalle haue xl. s. for his laboure of the marſhalle.</p>
+               <p>Alſo that euery capitaigne keping the oſte that ſhalle fortune to haue ſouldiour of his retynue to be diſcharged or to departe oute of his com<g ref="char:EOLhyphen"/>panye or to be ded. be it naturelly or by mu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e or ſlaughter within .x. daies nexte and imme<g ref="char:EOLhyphen"/>diatly enſuynge his ſaid diſchargynge. depar<g ref="char:EOLhyphen"/>tinge or deth certifye by byl his name with the day of his diſcharging departynge or deth vn<g ref="char:EOLhyphen"/>to the treaſourer of the warres. And if the ſame
+<pb facs="tcp:6774:3"/>
+l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:cmbAbbrStroke">̄</g> and ſeal vpon peyne to forfaite his parte in the priſoner vnto his capitaign / and he to be vn<g ref="char:EOLunhyphen"/>dre arreſt of the marſhal vnto the tyme he haue agreed with his capitaigne. In likwiſe that no capitayne raunſon or ſel his priſoner withoute licence of the kinge or his treaſourer of the war<g ref="char:EOLunhyphen"/>res vpon peyne of forfaiture of the ſame priſo<g ref="char:EOLhyphen"/>ner vnto the kinge / and that no man bye no ſu<g ref="char:EOLunhyphen"/>che priſoners vpon peyne to loſe the golde and money that he paieth for him / and the priſoner to be arreſted to the capitaigne aforſaide Alſoo the capitayn vpon notiſe hadde of the ſaide pri<g ref="char:EOLunhyphen"/>ſoner and licence aſlred by his ſoldiour ſhal nat withoute cauſe reſonable ſhewed vnto the mar<g ref="char:EOLunhyphen"/>ſhal lette the ſaide ſouldiour to take his beſt ad<g ref="char:EOLunhyphen"/>vantage of the ſaide priſoner howe be it that if the capitaigne wol yeue aſmoche for the ſayde priſoner as another he ſhal haue the priſoner &amp; preferrement</p>
+               <p>Alſo if any man take any ennemye the which hath been ſworne and hadde billet<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y ma<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> whiche oweth ligeaunce vnto oure liege for<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the kinge that is to wytte engliſſhe waſſhe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſhe or any other of ſuch condicion that the<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb facs="tcp:6774:4"/>
+ſone as he is comen into the oſte or els where. he be broughte into the warde of the marſhal / vp<g ref="char:EOLhyphen"/>on peyn to haue the ſame deth that the ſame tra<g ref="char:EOLunhyphen"/>toure or ennemye ſhal haue And he that any ſi<g ref="char:EOLunhyphen"/>che bringeth in ſhalle haue an hundreth ſhillin<g ref="char:EOLhyphen"/>ges of the king or of the marſhal for his trauail</p>
+               <p>Alſo if any man take any priſoner forthwith as he co<g ref="char:cmbAbbrStroke">̄</g>myth into the oſte he bring his priſoner vn<g ref="char:EOLunhyphen"/>to his capitaigne or maiſter / vpon peyne of lo<g ref="char:EOLhyphen"/>ſing of his part to his forſaide capitayne or ma<g ref="char:EOLunhyphen"/>ſter And then that his ſaide capitaigne if he bee within the oſte certifye the marſhal within two daies And if he be oute of the oſte in gariſon / or els where that he certifie the ſaide marſhal as ſo<g ref="char:EOLunhyphen"/>ne as he conueniently may / &amp; declare his name and hauyour by byl as nigh as he can aftre his knoulege ſoo that he be nat led noon other way vpon peyne to loſe his parte to him that ſhal do firſt the marſhal to haue witting therof and his body to be empriſoned and punyſſhed atte kin<g ref="char:EOLhyphen"/>ges wyl And that euery man doo kepe or do to he kept his priſoner y<hi rend="sup">t</hi> he ryde nat nor goo at lar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in the oſte ne in loginges / Butte if warde be
+<pb facs="tcp:6774:4"/>
+hadde vpon him vpon peyne of loſing of the ſa<g ref="char:EOLunhyphen"/>me priſoner Reſeruynge to his lorde or maiſtre his thriddes of the hole if he be nat partie / of the defaulte. and the ſeconde parte to him that firſt ſhal accuſe him / and the thridde part to the mar<g ref="char:EOLunhyphen"/>ſhal / and alſo more ouir his bodye in arreſte at the kinges wyl. Alſo that he ſuffre nat his priſo<g ref="char:EOLunhyphen"/>ner to go out of the oſte for his raunſome ne for non other cauſe without ſaufconduit of the kin<g ref="char:EOLunhyphen"/>ge or the marſhal vpon the peyne aforeſaide Al<g ref="char:EOLunhyphen"/>ſo that euery capitaigne in like wiſe bringe his priſoner vnto the treſourer of the werres vpone peyn of forfaitur of the ſame priſoner vnto the ¶ kinge Alſo that the marſhal from viii daies  to viii. daies duringe the kinges armye do certi<g ref="char:EOLunhyphen"/>fye the treaſourer of the warres of alle ſuche cer<g ref="char:EOLhyphen"/>tificates as ſhalbe brought in by the capitayns or any other vnto him aſwele of his owne as of other almaner priſoners / taken by any man in the oſt certified vnto him vpon peyn of renning in the kinges indignacion &amp; to forfaite the dou<g ref="char:EOLunhyphen"/>ble of the value to the kinge / of the ſaide priſo<g ref="char:EOLhyphen"/>ner or priſoners ſo concei<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> And like as euerye</p>
+               <p>¶capitaigne and ſouldioure is bound
+<pb facs="tcp:6774:5"/>
+to bringe in &amp; certify his priſoner vndre the four<g ref="char:EOLunhyphen"/>me aboue reherſed. ſoo in the ſame wiſe and vn<g ref="char:EOLunhyphen"/>dre ſemblable penalties they and euery of them ſhal bringe in and certifie al other prayes goo<g ref="char:EOLhyphen"/>des and catalles by them wonne by the warre.</p>
+            </div>
+            <div type="part">
+               <head>For paynge of thriddes / </head>
+               <p>Alſo that euery nan pay his thriddes to his ca<g ref="char:EOLhyphen"/>pitayn lorde and maſtre of al maner wynnyng by werre / and that aſwel thoſe that be nat in ſol<g ref="char:EOLunhyphen"/>de but logeinge or hoſtynge vndre the baner or penon of their capitaigne vpon peyn to loſe his parte of his forſaide wynnynge to his capitayn and his body to be in warde of the marſhal vn<g ref="char:EOLhyphen"/>to the tym he haue aggreed with his forſaid ma<g ref="char:EOLunhyphen"/>ſter / And alſo that euerye capitaigne pay vnto the kinge aſwel the thrid part of his own wyn<g ref="char:EOLhyphen"/>nynges of the werre / as the thridde of the thrid<g ref="char:EOLhyphen"/>des wherof eche of his retynue ſhalle be aunſwe<g ref="char:EOLunhyphen"/>ring vnto him / of whiche thirdes and thirdes of thirdes / euery capitayne ſhalbe accomptable bi<g ref="char:EOLunhyphen"/>fore the treſourer of the kinges warres vpon pei<g ref="char:EOLunhyphen"/>ne of forfaiture of th' ſaid winnynges vnto the ¶ kinge.</p>
+            </div>
+            <div type="part">
+               <head>¶For geuynge of ſaufcondu</head>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ytes or congies &amp; for brekinge of theym.</p>
+               <p>
+                  <pb facs="tcp:6774:5"/>maſter or capitayne vpon peyne of loſinge hor<g ref="char:EOLunhyphen"/>ſe harneys and his parte of the ſame childe / reſer<g ref="char:EOLunhyphen"/>uynge to his lorde maſtre or capitayn his duete ſo that they be not conſentaunt vnto the ſaid de<g ref="char:EOLunhyphen"/>faulte And alſo that the ſaide lord maſtre or ca<g ref="char:EOLunhyphen"/>pitaigne bringe him vnto the kinge within viii daies</p>
+               <p>Alſo for aſmoche as oure ſaide ſouerayne lorde for thenwarde loue tendre zele and entier affec<g ref="char:EOLhyphen"/>tion whiche he bereth naturelly to his ſubgettes beinge of his ſaide oſte and armye wolde be lo<g ref="char:EOLhyphen"/>theſt and moſte diſpleaſaunt to ſe or vnderſton<g ref="char:EOLunhyphen"/>de any of them to do that offens wherby he ſhul<g ref="char:EOLunhyphen"/>de deſerue the leſt punyſſhement by the ſaide or<g ref="char:EOLunhyphen"/>dynances prouided / His highneſſe therfore de<g ref="char:EOLhyphen"/>ſireth and tenderly prayeth his ſaide ſubgettes to conſidre and vnderſtond that his gode ſpede in his ſaide iourney / the honour of his royalme and the wele and ſuretie of the ſame his ſubget<g ref="char:EOLunhyphen"/>tes ſtondeth vpon the obſer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſaide ſtatutes / wherfor though it <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the greteſt heui<g ref="char:EOLunhyphen"/>neſſe and diſpleaſure / yet <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> neceſſitye. when the caſe it requyreth <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſaide ſtatute<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> executed / and the off<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <pb facs="tcp:6774:6"/>In conſiderato<g ref="char:cmbAbbrStroke">̄</g>n wherof he willeth and ſtraitly chargith his ſaid ſubgettes to haue them ſelf in ſo gode awayte y<hi rend="sup">t</hi> in no wiſe they offend the ſaid ſtatutes and to thentent they haue no cauſe to excuſe theim of their offences by pretenſe of ig<g ref="char:EOLhyphen"/>norance of the ſaide ordenances / his highneſſe hath ouir and aboue the open proclamacion of the ſaide ſtatutes co<g ref="char:cmbAbbrStroke">̄</g>maunded and ordeyned by wey of emprynte diuerſe and many ſeueral bo<g ref="char:EOLhyphen"/>kes conteignyng the ſame ſtatutes to be made. and deliuered to the capitaignes of his oſt char<g ref="char:EOLunhyphen"/>ginge them as they wyl avoyde his greate diſ<g ref="char:EOLhyphen"/>pleaſure to cauſe the ſame twyes or ones at the leſt in euery weke hooly to be redde in the preſe<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ce of theire retynue.</p>
+            </div>
+            <trailer>Here endeth certeyn ſtatutes &amp; ordenaunces o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> warre made ordeined enacted &amp; eſtablyſſhed by the moſt noble victorius and moſt criſten prin<g ref="char:EOLunhyphen"/>ce oure moſte <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rad ſouerayn lorde kyng Henry the vii. king o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> France &amp; of Englond by the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> diſcrete cou<g ref="char:cmbAbbrStroke">̄</g>cel holding th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his high <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> parliament at his pale<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of weſtmynſter the xvii. day of October in the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> MCCCC.lxxxxii. and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </trailer>
+            <pb facs="tcp:6774:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
